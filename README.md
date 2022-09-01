@@ -1,4 +1,4 @@
-# Server push
+# Pushing from an HTTP server
 
 Original HTTP was request/response which isn't great for web client that want real-time updates (e.g. likes or comments that update live without reloading a web page). Don't want client to be polling a server for updates.
 
